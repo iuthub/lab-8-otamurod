@@ -1,4 +1,4 @@
-@extends('layouts.master')
+<!--@extends('layouts.master')
 
 @section('content')
     <div class="row">
@@ -29,4 +29,4 @@
             <p><a href="#">Read more...</a></p>
         </div>
     </div>
-@endsection
+@endsection-->
